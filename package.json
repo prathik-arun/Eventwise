@@ -1,0 +1,8 @@
+{
+  "name": "eventwise",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Eventwise: AI-assisted event planning assistant (single-file web app) and its tests",
+  "scripts": { "test": "node --test" },
+  "devDependencies": { "jsdom": "^26.0.0" }
+}
